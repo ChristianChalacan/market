@@ -1,6 +1,6 @@
 # Aplicacion de Market
 Esta aplicacion es una aplicacion como spotify al final del readme esta el readme original
-
+<img src="/src/img/home.png">
 
 
 # Ionic 5 Spotify
