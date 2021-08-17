@@ -1,7 +1,17 @@
 # Aplicacion de Market
-Esta aplicacion es una aplicacion como spotify al final del readme esta el readme original
+<p>Esta aplicacion es una aplicacion como spotify al final del readme esta el readme original</p>
+  <p>Tiene un pantalla principal</p>
 <img src="/src/img/home.png">
-
+  <p>Tiene una libreria</p>
+<img src="/src/img/library.png">
+  <p>Tiene una lista de reproduccion con canciones para el dia</p>
+<img src="/src/img/daily.png">
+  <p>Tiene una pestaña para hacer busquedas</p>
+<img src="/src/img/search.png">
+  <p>Tiene una pestaña para cambiar a premium</p>
+<img src="/src/img/premiun.png">
+  <p>Y por ultimo tiene un reproductor de musica</p>
+<img src="/src/img/player.png">
 
 # Ionic 5 Spotify
 
