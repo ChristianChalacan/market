@@ -1,3 +1,8 @@
+# Aplicacion de Market
+Esta aplicacion es una aplicacion como spotify al final del readme esta el readme original
+
+
+
 # Ionic 5 Spotify
 
 [View on Github](https://github.com/mrhieu/ionic-spotify)
